@@ -37,7 +37,7 @@
 ## 🌐 Languages
 
 - 🇪🇸 Native Spanish
-- 🇬🇧 Advanced English (studied my whole life)
+- 🇬🇧 Advanced English (FCE 179/190, B2)
 
 ---
 
