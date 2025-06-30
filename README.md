@@ -16,7 +16,7 @@
 
 - 🎓 **Student** at Facultad de Ingeniería, Universidad de Buenos Aires (FIUBA)
 - 💻 **Focused on backend development**: strong, performant, and scalable systems
-- 🔍 **Looking for**: Internships, trainee, or junior backend developer roles
+- 🔍 **Looking for**: Internships, entry-level roles as backend developer
 
 ---
 
